@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Podcast Pau Rodríguez BioEmprendedores.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/2022-12-07.md",
+                "file": "daily_notes/2022-12-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Podcast Pau Rodríguez BioEmprendedores.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Podcast Pau Rodríguez BioEmprendedores.md"
+                "file": "README.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Podcast Pau Rodríguez BioEmprendedores.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
     "width": 285.5,
     "collapsed": true
   },
-  "active": "9f8fce83122e3cd0",
+  "active": "5c41a841f9d58ef9",
   "lastOpenFiles": [
-    "daily_notes/2022-12-07.md",
     "daily_notes/2022-12-11.md",
+    "daily_notes/2022-12-07.md",
+    "README.md",
+    "pages/Podcast Pau Rodríguez BioEmprendedores.md",
     "daily_notes/2022-12-11 2.md",
     "daily_notes/2022-10-03.md",
     "pages/Capital Cell.md",
     "Screen Shot 2022-10-21 at 14.57.09.png",
     "Pasted image 20221129113025.png",
-    "Presentació Jornades d'emprenedors de Girona.md",
-    "Weekly notes/2022-W49.md",
-    "planning/2022-W50.md"
+    "Presentació Jornades d'emprenedors de Girona.md"
   ]
 }
