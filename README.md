@@ -8,9 +8,8 @@
 
 
 ## Interesting things about me
-* 🧠 [[Top of Mind]]
+* 🧠 [Top of Mind](pages/Top%20of%20Mind.md)
 * 📅 My [planning](../planning) including weekly tasks and quarterly goals. 
-
 
 ## How I work
 
