@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "daily_notes/2022-12-12.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -34,7 +33,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2022-12-11.md",
+                "file": "daily_notes/2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/2022-12-11.md"
+                "file": "daily_notes/2022-12-12.md"
               }
             }
           },
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2022-12-11.md",
+                "file": "daily_notes/2022-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,20 +163,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
-  "active": "e568e2161af9efb7",
+  "active": "5c41a841f9d58ef9",
   "lastOpenFiles": [
-    "README.md",
+    "planning/2022-W50.md",
     "daily_notes/2022-12-12.md",
-    "pages/Top of Mind.md",
-    "Top of Mind.md",
-    "Test page.md",
-    "daily_notes/2022-12-11.md",
-    "daily_notes/2022-12-07.md",
+    "pages/Methinks.md",
+    "pages/comma.ai.md",
+    "pages/ECTRIMS.md",
+    "pages/Capital Cell.md",
+    "pages/Basecamp.md",
     "pages/Podcast Pau Rodríguez BioEmprendedores.md",
-    "daily_notes/2022-12-11 2.md",
-    "daily_notes/2022-10-03.md"
+    "pages/Founders and rejection.md",
+    "daily_notes/2022-12-08.md"
   ]
 }
