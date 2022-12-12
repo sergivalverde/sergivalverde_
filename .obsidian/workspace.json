@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -71,12 +72,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "21bab5f07a9bba8b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "319fba7842f74bb2",
@@ -92,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "daily_notes/2022-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "daily_notes/2022-12-11.md"
               }
             }
           },
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "daily_notes/2022-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,19 +165,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
-  "active": "4c249d529cc24978",
+  "active": "e568e2161af9efb7",
   "lastOpenFiles": [
-    "pages/Top of Mind.md",
     "README.md",
+    "daily_notes/2022-12-12.md",
+    "pages/Top of Mind.md",
     "Top of Mind.md",
     "Test page.md",
     "daily_notes/2022-12-11.md",
     "daily_notes/2022-12-07.md",
     "pages/Podcast Pau Rodríguez BioEmprendedores.md",
     "daily_notes/2022-12-11 2.md",
-    "daily_notes/2022-10-03.md",
-    "pages/Capital Cell.md"
+    "daily_notes/2022-10-03.md"
   ]
 }
