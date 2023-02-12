@@ -1,5 +1,7 @@
 [
   "obsidian-languagetool-plugin",
   "obsidian-git",
-  "obsidian-apple-reminders-plugin"
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin",
+  "periodic-notes"
 ]

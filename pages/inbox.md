@@ -1,1 +1,0 @@
-- 20221206_100748 Using a repository for culture meeting to keep tracks of things

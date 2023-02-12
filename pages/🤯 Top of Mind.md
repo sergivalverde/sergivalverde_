@@ -1,0 +1,5 @@
+- How to install the software in 1000 hospitals. What do you need to do so? 
+- Regulatory
+- Personal repository to track my tasks and responsibilities. 
+- Your precious time. How do you use it? 
+- 

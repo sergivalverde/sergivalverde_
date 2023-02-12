@@ -1,5 +1,10 @@
 {
   "theme": "moonstone",
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "sergi"
+  ],
+  "baseFontSizeAction": true
 }

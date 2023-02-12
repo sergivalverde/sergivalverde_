@@ -144,3 +144,16 @@ Si aún no has tenido ocasión, échale un vistazo a la web de la campaña que h
 
 
 
+
+
+
+#  ¡Menos de dos semanas de ronda con más del 85% invertido ya! Aprovecha ahora e invierte antes de que se acabe el plazo.  
+
+Durante las últimas semanas, hemos estado hablando y explicando el proyecto a varios inversores y stakeholders relacionados con la Esclerosis Múltiple y los frutos se empiezan a ver 💪! 
+
+@BAGI, uno de los lead investors de la ronda, se ha comprometido con una nueva inversión de sus inversores por un valor de 125.000 €, lo que deja la ronda con más de un 85% conseguido sobre nuestro objetivo de inversión de 640.000 € a menos ya de dos semanas para cerrar la ronda. 🚀
+
+Además, @GAEM, la asociación de pacientes de EM más importante de España,  nos ha dado su soporte explícito como herramienta innovadora de soporte a los clínicos para monitorizar la efectividad de los fármacos a los pacientes, ayudándonos a llegar más lejos y a informar mucho mejor de como una tecnología como la que hemos desarrollado puede transformar el cuidado de los pacientes. 
+
+Durante los próximos días esperamos poder anunciar la incorporación de nuevos business angels que nos ayuden a cerrar la ronda en breve, así que, si aún no has tenido ocasión, !échale un vistazo a la web de la campaña e invierte en Tensor Medical ahora!  Recordad que las inversiones superiores o iguales a 15.000 € tienen un 10 % de descuento. 
+

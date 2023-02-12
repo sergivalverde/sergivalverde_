@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"477d63ae27be4f09","x":-4831,"y":-2793,"width":167,"height":76,"color":"1","type":"text","text":"TM"},
+		{"id":"860d63c12cae5377","x":-4404,"y":-2456,"width":250,"height":50,"color":"3","type":"text","text":"QMS + DHF"},
+		{"id":"b02f41bb93d0ae7c","x":-4648,"y":-1544,"width":451,"height":451,"type":"file","file":"pages/Future ideas.md"},
+		{"id":"ebaf5e8c64483583","x":-4404,"y":-2625,"width":250,"height":52,"color":"4","type":"text","text":"Data protection"},
+		{"id":"664765fe7d68b15e","x":-4404,"y":-2780,"width":250,"height":50,"color":"6","type":"text","text":"International validation"},
+		{"id":"6246c33a6e65f9a0","x":-4599,"y":-2274,"width":250,"height":50,"color":"3","type":"text","text":"team"},
+		{"id":"0e109c5027a68e57","x":-4444,"y":-3196,"width":316,"height":50,"type":"text","text":"HOSPITAL INTEGRATION"},
+		{"id":"181442edb824dada","x":-4218,"y":-2306,"width":400,"height":277,"type":"file","file":"pages/Values and constants.md"},
+		{"id":"e0099764d621c958","x":-4218,"y":-1978,"width":400,"height":400,"type":"file","file":"pages/Roadmap.md"},
+		{"id":"2469061709132738","x":-4068,"y":-3311,"width":250,"height":50,"type":"text","text":"VH"}
+	],
+	"edges":[
+		{"id":"b1df7d655c3152d4","fromNode":"477d63ae27be4f09","fromSide":"right","toNode":"664765fe7d68b15e","toSide":"left"},
+		{"id":"f21a828afd153301","fromNode":"477d63ae27be4f09","fromSide":"right","toNode":"ebaf5e8c64483583","toSide":"left"},
+		{"id":"ac3da8fcec9c2a7a","fromNode":"477d63ae27be4f09","fromSide":"right","toNode":"860d63c12cae5377","toSide":"left"},
+		{"id":"4fbe92f46be266dd","fromNode":"477d63ae27be4f09","fromSide":"right","toNode":"6246c33a6e65f9a0","toSide":"left"},
+		{"id":"d0988a520cedb3d3","fromNode":"6246c33a6e65f9a0","fromSide":"right","toNode":"181442edb824dada","toSide":"left"},
+		{"id":"0661c92115d454ab","fromNode":"6246c33a6e65f9a0","fromSide":"right","toNode":"e0099764d621c958","toSide":"left"},
+		{"id":"1163909914980727","fromNode":"477d63ae27be4f09","fromSide":"right","toNode":"0e109c5027a68e57","toSide":"left"},
+		{"id":"30da98cc2ae228aa","fromNode":"0e109c5027a68e57","fromSide":"right","toNode":"2469061709132738","toSide":"left"}
+	]
+}

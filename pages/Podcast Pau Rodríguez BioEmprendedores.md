@@ -1,5 +1,7 @@
 Notes about the podcast in BioEmprendedores to [Pau Rodríguez](../_people/Pau%20Rodríguez.md) of [Methinks](Methinks.md). 
 
+# Podcast bio
+
 ## Strong points of Methinks value proposition
 - Stroke is the second most common death cause in the world.  
 - Today you need contrast CT to see the thrombus.  With their model, they can predict if there is a thrombus with regular CT.  
@@ -63,7 +65,7 @@ Notes about the podcast in BioEmprendedores to [Pau Rodríguez](../_people/Pau%2
 * Resilience and adaptability: invest in acquiring problem-solving intelligence as a team: see the example of [Basecamp](Basecamp.md), and how they compete with much bigger teams. 
 * More innovation and tools to learn to decide in which things to work on.
 
-## Personal learning 
+# Personal learning 
 - Being disciplined to track progress in all directions. 
 - Talks with founders.  You learn a lot from this feedback.  
 
